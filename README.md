@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/aqKTgw8YgMAAAAAi/hello-joypixels.gif🏾" width="30px">, I am Jorge Luis </h1>
 
-- 🔭   I’m currently working at [Nubank](https://nubank.com.br/)
-- 🌱   I’m currently learning Clojure, Flutter and Golang
+- 🌱   I’m currently learning Rust
 - 👯   I’m looking to collaborate on FOSS
 - 😄   Pronouns: he/his
 <!--img height="140em" alt="kawaii GIF" align="right" src="https://github.com/norestraint/norestraint/blob/main/images/my-kawaii-GIF.gif"-->
