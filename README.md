@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/aqKTgw8YgMAAAAAi/hello-joypixels.gif🏾" width="30px">, I am Jorge Luis </h1>
 
-- 🌱   I’m currently learning Rust
-- 👯   I’m looking to collaborate on FOSS
+- 🌱   I am always working on perfecting my skills at backend development.
+- 👯   I’m looking to collaborate on FOSS.
 - 😄   Pronouns: he/his
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norestraint&count_private=true&show_icons=true&theme=transparent&hide_rank=true)
